@@ -1,0 +1,9 @@
+*.db
+__pycache__/
+*.pyc
+.env
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
